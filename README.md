@@ -1,6 +1,6 @@
 
-## How to use 🚀
-Open **index.html** with your browser.
+## Demo 🚀
+[Link](https://icaruk.github.io/piedra-papel-tijera/)
 
 
 ## How do you play 🎲
